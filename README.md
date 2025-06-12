@@ -28,11 +28,11 @@ I'm Tejesh Simkhada, a passionate developer who loves creating innovative soluti
 
 ### 📊 GitHub Stats
 
-![Tejesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tejeshhh78&show_icons=true&theme=radical)
+![Tejesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tejeshhh78&show_icons=true&theme=radical&count_private=true)
 
 ### 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejeshhh78&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejeshhh78&layout=compact&theme=radical&count_private=true)
 
 ### 🤝 Connect with me
 
