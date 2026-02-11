@@ -33,11 +33,11 @@ A passionate developer who loves creating innovative solutions with code. 🚀
 ### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tejeshhh78&show_icons=true&theme=radical&hide_border=false" alt="Tejesh's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tejeshhh78&show_icons=true&theme=radical&hide_border=false](https://github-readme-stats-fast.vercel.app/api?username=Tejeshhh78&show_icons=true&theme=radical)" alt="Tejesh's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejeshhh78&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejeshhh78&layout=compact&theme=radical](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Tejeshhh78&layout=compact&theme=radical)" alt="Top Languages" />
 </p>
 
 <p align="center">
