@@ -1,82 +1,79 @@
-# Hi there 👋 I'm Tejesh Simkhada
+<div align="center">
 
-A passionate developer who loves creating innovative solutions with code. 🚀
+# Tejesh Simkhada
 
----
+Full-stack developer building web applications with C#, .NET, JavaScript, and Python.
 
-## 🔭 About me
+[![GitHub](https://img.shields.io/badge/GitHub-Tejeshhh78-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Tejeshhh78)
 
-I build full-stack applications and enjoy contributing to open-source. I focus on writing clean, maintainable code and learning new technologies.
+</div>
 
----
+<br />
 
-## 🛠 Tech stack
+## About me
 
-**I love working with:**
+I enjoy turning ideas into working software.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+My main interest is full-stack development, with a focus on clean structure, maintainable code, and practical user experiences. I build projects to improve my skills, explore new tools, and understand how applications work from frontend to backend.
+
+I am currently expanding my knowledge of .NET, React, Node.js, and modern web development.
+
+## Tech stack
+
+### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-**I'm currently leveling up in:**
+### Frameworks and tools
 
-<p align="left">
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+<p>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
----
+## Current focus
 
-## 🔭 What I'm up to
+- Building full-stack web applications
+- Improving C# and .NET skills
+- Learning React and Node.js
+- Writing cleaner, more maintainable code
+- Contributing to open-source projects when possible
 
-- 🚀 Building innovative software solutions
-- 🌐 Exploring full-stack development projects
-- 🤝 Contributing to open-source communities
+## Projects
 
----
+### [Chautari-Web](https://github.com/Tejeshhh78/Chautari-Web)
 
-## 📦 Notable projects
+A community website project built with modern web technologies.
 
-- [Chautari-Web](https://github.com/Tejeshhh78/Chautari-Web) — Community website built with modern web tech
-- [TabRes](https://github.com/Tejeshhh78/TabRes) — Table reservation frontend
-- [javascript-quiz-app](https://github.com/Tejeshhh78/javascript-quiz-app) — Interactive quiz with editor
-- [GuesNRNA](https://github.com/Tejeshhh78/GuesNRNA) — (WIP) game/experiment
+### [TabRes](https://github.com/Tejeshhh78/TabRes)
 
----
+A frontend project for a table reservation experience.
 
-## 📊 GitHub stats
+### [javascript-quiz-app](https://github.com/Tejeshhh78/javascript-quiz-app)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tejeshhh78&show_icons=true&theme=radical&hide_border=false" alt="GitHub stats" />
-</p>
+An interactive JavaScript quiz application with an editor-based workflow.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejeshhh78&layout=compact&theme=radical" alt="Top languages" />
-</p>
+### [GuesNRNA](https://github.com/Tejeshhh78/GuesNRNA)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Tejeshhh78&theme=radical" alt="GitHub Streak" />
-</p>
+A work-in-progress game and experimental project.
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tejeshhh78&theme=github-compact" width="100%" alt="GitHub Activity Graph" />
-</p>
+## What I value
 
----
+- Clear and readable code
+- Small, focused improvements
+- Learning by building
+- Useful software over unnecessary complexity
+- Collaboration and open-source work
 
-## 🤝 Connect with me
+## Connect
 
-<a href="https://github.com/Tejeshhh78">
-  <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=Github&logoColor=white" alt="GitHub"/>
-</a>
-
----
-
-## ⚡ Fun fact
-
-> I believe every bug is just an undocumented feature waiting to be discovered! 🐛✨
+- GitHub: [@Tejeshhh78](https://github.com/Tejeshhh78)
