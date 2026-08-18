@@ -2,9 +2,18 @@
 
 A passionate developer who loves creating innovative solutions with code. 🚀
 
-### 🛠 Tech Stack
+---
+
+## 🔭 About me
+
+I build full-stack applications and enjoy contributing to open-source. I focus on writing clean, maintainable code and learning new technologies.
+
+---
+
+## 🛠 Tech stack
 
 **I love working with:**
+
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
@@ -14,6 +23,7 @@ A passionate developer who loves creating innovative solutions with code. 🚀
 </p>
 
 **I'm currently leveling up in:**
+
 <p align="left">
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
@@ -22,7 +32,7 @@ A passionate developer who loves creating innovative solutions with code. 🚀
 
 ---
 
-### 🔭 What I'm up to
+## 🔭 What I'm up to
 
 - 🚀 Building innovative software solutions
 - 🌐 Exploring full-stack development projects
@@ -30,14 +40,23 @@ A passionate developer who loves creating innovative solutions with code. 🚀
 
 ---
 
-### 📊 GitHub Insights
+## 📦 Notable projects
+
+- [Chautari-Web](https://github.com/Tejeshhh78/Chautari-Web) — Community website built with modern web tech
+- [TabRes](https://github.com/Tejeshhh78/TabRes) — Table reservation frontend
+- [javascript-quiz-app](https://github.com/Tejeshhh78/javascript-quiz-app) — Interactive quiz with editor
+- [GuesNRNA](https://github.com/Tejeshhh78/GuesNRNA) — (WIP) game/experiment
+
+---
+
+## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tejeshhh78&show_icons=true&theme=radical&hide_border=false](https://github-readme-stats-fast.vercel.app/api?username=Tejeshhh78&show_icons=true&theme=radical)" alt="Tejesh's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tejeshhh78&show_icons=true&theme=radical&hide_border=false" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejeshhh78&layout=compact&theme=radical](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Tejeshhh78&layout=compact&theme=radical)" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejeshhh78&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -50,13 +69,14 @@ A passionate developer who loves creating innovative solutions with code. 🚀
 
 ---
 
-### 🤝 Connect with me
+## 🤝 Connect with me
 
-<p align="left">
 <a href="https://github.com/Tejeshhh78">
   <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=Github&logoColor=white" alt="GitHub"/>
 </a>
-</p>
 
-### ⚡ Fun fact
+---
+
+## ⚡ Fun fact
+
 > I believe every bug is just an undocumented feature waiting to be discovered! 🐛✨
